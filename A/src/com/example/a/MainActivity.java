@@ -26,7 +26,6 @@ public class MainActivity extends Activity implements OnSeekBarChangeListener {
         s1 = (SeekBar) findViewById(R.id.seekBar1);
         
         s1.setOnSeekBarChangeListener(this);
-        s1.setOnSeekBarChangeListener
     }
 
 
@@ -52,7 +51,7 @@ public class MainActivity extends Activity implements OnSeekBarChangeListener {
 			Toast.makeText(getApplicationContext(),"Addition", Toast.LENGTH_SHORT).show();
 			num1 = Float.parseFloat(e1.getText().toString());
 			num2 = Float.parseFloat(e2.getText().toString());
-			result = num + num2;
+			result = num1 + num2;
 			t1.setText(Float.toString(result));
 		}
 		if(arg1 == 2){

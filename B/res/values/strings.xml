@@ -4,5 +4,15 @@
     <string name="app_name">B</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="empId">Emp. Id</string>
+    <string name="empName">Employee Name</string>
+    <string name="sal">Salary</string>
+    <string name="addE">Add</string>
+    <string name="delE">Delete Employee</string>
+    <string name="modE">Modify</string>
+    <string name="delEE">Delete</string>
+    <string name="upE">Update</string>
+    <string name="vE">View</string>
+    <string name="vaE">View All</string>
 
 </resources>
